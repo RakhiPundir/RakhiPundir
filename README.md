@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakhiPundir
 - 👀 I’m interested in ...Coding, VirtualGamine and Reading.
-- 🌱 I’m currently working to learn ...about Data Science & Machine Learning
+- 🌱 I’m currently working...as an AI/ML Developer
 - 📫 How to reach me ...rakhipundir120802@gmail.com
 
 <!---
